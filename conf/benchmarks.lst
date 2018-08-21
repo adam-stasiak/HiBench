@@ -4,7 +4,7 @@ micro.terasort
 micro.wordcount
 micro.dfsioe
 
-sql.aggregation
+# sql.aggregation
 sql.join
 sql.scan
 
